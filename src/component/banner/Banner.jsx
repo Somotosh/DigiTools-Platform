@@ -9,7 +9,7 @@ const Banner = () => {
         <div >
             <div className='flex flex-col sm:flex-row justify-between  gap-3 max-w-11/12 mx-auto mt-10 space-y-6'>
 
-                <div className= 'mt-5 sm:mt-18 px-1 sm:px-7'>
+                <div className= 'mt-5 sm:mt-18 '>
 
                     <div className='flex w-fit items-center py-1 px-2 bg-[#E1E7FF] rounded-full '>
                         <div >
